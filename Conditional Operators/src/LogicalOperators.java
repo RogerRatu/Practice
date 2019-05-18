@@ -36,6 +36,8 @@ public class LogicalOperators {
 		System.out.println("!(a && b) = " + !(a && b));
 		
 		System.out.println("Change #1 !(a && b) = " + !(a && b));
+		
+		System.out.println("Change #2 !(a && b) = " + !(a && b));
                         
                             
 	}
